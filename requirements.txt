@@ -1,0 +1,4 @@
+python-xlib>=0.33
+# mss und Pillow nur als Fallback wenn spectacle/scrot fehlen:
+mss>=10.0.0
+Pillow>=10.0.0
